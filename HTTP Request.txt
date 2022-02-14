@@ -4,4 +4,4 @@ Response: {"Intro":"Hello!! This is your the first response from server","Tasks"
 
 2.
 Request: http://162.55.220.72:5005/get_method?name=evgeniy&age=28
-Response: ["(Alex)","(77)"]
+Response: ["evgeniy","28"]
