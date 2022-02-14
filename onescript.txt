@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd courses
+mkdir lesson_1 lesson_2 lesson_3
+cd lesson_2
+touch one.txt two.txt three.txt four.json five.json
+mkdir folder_1 folder_2 folder_3
+ls -la
+mv {five.json,two.txt} /d/courses/lesson_1/
+
